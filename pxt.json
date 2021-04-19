@@ -10,5 +10,8 @@
         "NFC_Taf_2.ts"
     ],
     "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
     "preferredEditor": "tsprj"
 }
