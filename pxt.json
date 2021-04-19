@@ -7,8 +7,11 @@
         "core": "*"
     },
     "files": [
-        "NFC_Taf_2.ts"
+        "NFC_Tag_2.ts"
     ],
     "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
     "preferredEditor": "tsprj"
 }
