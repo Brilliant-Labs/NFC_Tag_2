@@ -9,8 +9,8 @@
     "files": [
         "README.md",
         "NFC_Tag_2.ts",
-        "_locales/fr/neopixel-strings.json",
-        "_locales/fr/neopixel-jsdoc-strings.json"
+        "_locales/fr/NFC_Tag_2-strings.json",
+        "_locales/fr/NFC_Tag_2-jsdoc-strings.json"
     ],
     "testFiles": [
         "NFC_Tag_2test.ts"
