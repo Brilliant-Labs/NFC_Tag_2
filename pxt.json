@@ -13,20 +13,11 @@
         "_locales/fr/NFC_Tag_2-jsdoc-strings.json"
     ],
     "testFiles": [
-        "NFC_Tag_2test.ts"
+        "test.ts"
     ],
     "public": true,
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj",
-    "yotta": {
-        "config": {
-            "microbit-dal": {
-                "bluetooth": {
-                    "enabled": 0
-                }
-            }
-        }
-    }
+    "preferredEditor": "tsprj"
 }
