@@ -13,7 +13,7 @@
         "_locales/fr/NFC_Tag_2-jsdoc-strings.json"
     ],
     "testFiles": [
-        "test.ts"
+        "tests.ts"
     ],
     "public": true,
     "supportedTargets": [
